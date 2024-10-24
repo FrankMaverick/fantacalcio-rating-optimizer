@@ -11,6 +11,5 @@ Obiettivi del task:
 - Pulizia e preparazione dei dati (gestione valori mancanti, normalizzazione/standardizzazione, encoding delle variabili categoriche, feature scaling, etc.).
 - Dividere il dataset in training e test set.
 - Definire un modello di Machine Learning supervisionato per predire rating_target come variabile di output.
-- Testare diversi algoritmi di regressione (come Regressione Lineare, Random Forest, XGBoost, o reti neurali) per trovare quello con la performance migliore.
-- Valutare la performance del modello tramite metriche come MSE (Mean Squared Error) o MAE (Mean Absolute Error).
-- Documentare il processo e i risultati ottenuti.
+- Testare diversi algoritmi di regressione (come Regressione Lineare, Random Forest, XGBoost) per trovare quello con la performance migliore.
+- Valutare la performance del modello tramite metriche come MSE (Mean Squared Error) o MAE (Mean Absolute Error)
